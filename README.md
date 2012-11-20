@@ -7,6 +7,9 @@ glModel
 
 ## Screenshot
 
+![Reader][Reader]
+
+
 running on Windows 7 , glut 32
 Dev. base on Visual Studio 2010 .
 
@@ -37,4 +40,4 @@ If you have any suggestion, feel free to connect me
 ## Copyright Notice
 
 just free
-[]
+[Reader]:./image/Reader.png

@@ -7,7 +7,7 @@ glModel
 
 ## Screenshot
 
-![Reader's UML][Reader]
+![Reader's UML][ReaderUML]
 - Fig 1. The Reader's UML 
 
 
@@ -41,4 +41,4 @@ If you have any suggestion, feel free to connect me
 ## Copyright Notice
 
 just free
-[Reader]:./image/Reader.png
+ [ReaderUML] : https://raw.github.com/wupojung/glModel/master/image/Reader.png

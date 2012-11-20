@@ -7,7 +7,8 @@ glModel
 
 ## Screenshot
 
-![Reader][Reader]
+![Reader's UML][Reader]
+- Fig 1. The Reader's UML 
 
 
 running on Windows 7 , glut 32

@@ -2,9 +2,27 @@ glModel
 ========
   A Model Class for the OpenGL,easy for read render etc...
 
+## Screenshot
+
+![Screenshot for Running][Screenshot]
+
+This program on Windows 7(64-bits) OK
+
+
 
 ## History
-2012.11.20 updata a VS2010 project (in src) for everyone.
+
+##### 2012.11.21 
+	update a executeable project(VS2010) for everyone.
+	
+	update screenshot 
+	
+##### 2012.11.20 
+	created this project on GitHub
+	
+	updata a VS2010 project (in src) for everyone.
+
+
 
 
 ## Flow Chart
@@ -18,8 +36,6 @@ glModel
  
 **Fig 2. The Reader's UML**
 
-
-## Screenshot
 
 
 
@@ -57,3 +73,4 @@ If you have any suggestion, feel free to connect me
 just free
 
 [ReaderUML]:http://github.com/wupojung/glModel/raw/master/image/Reader.png
+[Screenshot]:http://github.com/wupojung/glModel/raw/master/image/Screenshot.png
